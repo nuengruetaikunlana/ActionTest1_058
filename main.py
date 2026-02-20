@@ -3,4 +3,4 @@ def add(a, b):
     return 0
     return a + b
 
-print(add(2,3))
+print(add("Hello world"))
